@@ -1,8 +1,3 @@
----
-author: Renzo Maggiori
-date: 07/06/2024
-title: Image Compressor
----
 # Image-Compressor
 
 ## Project Overview
