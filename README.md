@@ -44,6 +44,11 @@ The Image Compressor uses the K-means clustering algorithm to reduce the number 
    - This process is repeated until the change in cluster centroids is less than the convergence limit specified by the -l flag.
 4. **Output Compressed Image**: Once the algorithm converges, the program outputs the compressed image data, where each pixel's color is replaced by the color of the nearest cluster centroid.
 
+## Tests
+<div align="center">
+  <img src="./tests/tests.png" />
+</div>
+
 ## Authors
 
 | [<img src="https://github.com/RenzoMaggiori.png?size=85" width=85><br><sub>Renzo Maggiori</sub>](https://github.com/RenzoMaggiori) | [<img src="https://github.com/G0nzal0zz.png?size=85" width=85><br><sub>Gonzalo Larroya</sub>](https://github.com/G0nzal0zz)
